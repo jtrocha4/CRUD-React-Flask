@@ -1,0 +1,35 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+.div-form {
+    background-color: #fff;
+    color: #222;
+    padding: 51px;
+    border-radius: 15px;
+}
+
+table button{
+    width: 105px;
+}
+
+table thead tr{
+    margin-bottom: 5px;
+}
+
+.div-table {
+    background-color: #fff;
+    color: #222;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+nav{
+    font-size: 1em;
+}
+
+nav span{
+    font-size: 1.3em;
+    font-weight: bold;
+}
